@@ -9,5 +9,7 @@ int main(void){
   printf("Computer Engineering\n");
   printf("Clayton Redding\n");
   printf("Undeclared!\n");
+  printf("Alex Fetzner\n");
+  printf("Actuarial science\n");
   return 0;
 }
