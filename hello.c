@@ -6,7 +6,8 @@
 
 int main(void){
   printf("Adrien Fortner\n");
-  printf("Computer Engineering\n")
-  
+  printf("Computer Engineering\n");
+  printf("Clayton Redding\n");
+  printf("Undeclared!\n");
   return 0;
 }
